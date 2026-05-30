@@ -109,7 +109,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="Our Legacy of Flavor"
       description={[
-        "At Om Pappu Pan, we are dedicated to preserving the rich heritage of Pan-making while innovating with new, exciting flavors. Our journey began decades ago with a simple goal: to craft the most authentic and delightful Pan experience.",        "Every Pan is a masterpiece, prepared with the freshest betel leaves, handpicked spices, and a secret blend of ingredients passed down through generations. We believe in quality, tradition, and the joy of sharing this exquisite Indian delicacy with the world. Join us in celebrating the true essence of Pan."]}
+        "At Om Pappu Pan, we are dedicated to preserving the rich heritage of Pan-making while innovating with new, exciting flavors. Our journey began decades ago with a simple goal: to craft the most authentic and delightful Pan experience.",        "Every Pan is a masterpiece, prepared with the freshest betel leaves, handpicked spices, and a secret blend of ingredients passed down through generations. We believe in quality, tradition, and the joy of sharing this exquisite Indian delicacy with the world. Join us in celebrating the true essence of Pan." ]}
       buttons={[
         {
           text: "Our Story",          href: "#"},
@@ -182,19 +182,19 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "t1",          name: "Priya Sharma",          role: "Food Blogger",          company: "TasteBuds",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/horizontal-shot-happy-unshaven-hipster-dressed-yellow-hat-plaid-shirt-grows-houseplant-being-interested-botany-smiles-gladfully-isolated-purple-wall-florist-with-sansevieria_273609-27833.jpg",          imageAlt: "Priya Sharma"},
+          imageSrc: "https://images.unsplash.com/photo-1573496359142-b8d877340c02?q=80&w=2660&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          imageAlt: "Priya Sharma"},
         {
           id: "t2",          name: "Rajesh Kumar",          role: "Entrepreneur",          company: "Innovate Labs",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/impressed-young-caucasian-ill-girl-wrapped-plaid-pointing-isolated-green-wall-with-copy-space_141793-79854.jpg",          imageAlt: "Rajesh Kumar"},
+          imageSrc: "https://images.unsplash.com/photo-1544723795-3fb6469e380f?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          imageAlt: "Rajesh Kumar"},
         {
           id: "t3",          name: "Anjali Singh",          role: "Event Planner",          company: "Grand Celebrations",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663870.jpg",          imageAlt: "Anjali Singh"},
+          imageSrc: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=2722&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          imageAlt: "Anjali Singh"},
         {
           id: "t4",          name: "Sanjay Gupta",          role: "Local Business Owner",          company: "Gupta Groceries",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-woman-drinking-matcha-latte-park_169016-43893.jpg",          imageAlt: "Sanjay Gupta"},
+          imageSrc: "https://images.unsplash.com/photo-1560250097-fb5ee0f33946?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          imageAlt: "Sanjay Gupta"},
         {
           id: "t5",          name: "Deepa Patel",          role: "Homemaker",          company: "Pan Lover",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-woman-coffee-shop_23-2148263242.jpg",          imageAlt: "Deepa Patel"},
+          imageSrc: "https://images.unsplash.com/photo-1542155823-3e19864273c5?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          imageAlt: "Deepa Patel"},
       ]}
       kpiItems={[
         {
